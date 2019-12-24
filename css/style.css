@@ -123,6 +123,11 @@ src:url('../fonts/roboto-regular-webfont.woff2') format('woff2'),
 .dropdown:hover li{
 	padding: 5px 0;
 }
+.dropdown:hover .submenu__link{
+	font-size: 20px;
+	font-family: "Roboto";
+	color: rgb(51, 51, 51);
+}
 .submenu__item {}
 .submenu__link {}
 .content__button {
